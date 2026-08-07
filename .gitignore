@@ -1,0 +1,33 @@
+# Local helper scripts
+git-push.sh
+pack-data.sh
+release-now.sh
+release-now.md
+
+# Environment files
+.env
+.env.*
+
+# Release archives
+releases/
+*.7z
+*.zip
+*.tar.gz
+
+# Build output
+bin/
+obj/
+build/
+dist/
+*.exe
+*.dll
+*.obj
+*.res
+*.pdb
+
+# Editor and OS metadata
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

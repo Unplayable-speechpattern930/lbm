@@ -1,0 +1,11 @@
+* text=auto
+
+.gitattributes text eol=lf
+.gitignore     text eol=lf
+*.sh       text eol=lf
+*.md       text eol=lf
+*.ps1      text eol=crlf
+*.asm      text eol=crlf
+*.inc      text eol=crlf
+*.rc       text eol=crlf
+*.manifest text eol=crlf
