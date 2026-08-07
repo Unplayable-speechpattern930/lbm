@@ -895,9 +895,9 @@ dpi_initialized:
     mov g_hInstance, rax
     mov rbx, rax                ; RBX = hInstance
 
-    ; 2. Load the stock application icon and arrow cursor.
-    mov edx, 32512              ; IDI_APPLICATION
-    xor ecx, ecx
+    ; 2. Load the application icon embedded in resource.rc and arrow cursor.
+    mov edx, IDI_LBM            ; MAKEINTRESOURCEW(IDI_LBM)
+    mov rcx, rbx                ; hInstance: load from this executable
     call LoadIconW
     mov rsi, rax                ; RSI = hIcon
 

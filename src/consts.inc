@@ -52,7 +52,8 @@ DWMSBT_MAINWINDOW             equ 2
 ; --- Shell & UAC Constants ---
 SEE_MASK_NOCLOSEPROCESS equ 00000040h
 
-; --- GUI Control IDs ---
+; --- GUI Resource and Control IDs ---
+IDI_LBM                 equ 101
 ID_SLIDER_START         equ 101
 ID_SLIDER_STOP          equ 102
 ID_BTN_APPLY            equ 103
